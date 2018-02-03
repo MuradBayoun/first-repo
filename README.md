@@ -1,25 +1,25 @@
-# Hello Git Learner let's love git
+# Murad Bayoun
 
-## Git is a very powerfull tool
+### Operating System and Network Engineer
 
-And as **Powerfull** tool it help us mange and work with our teams on code together,
-Git is  *helpful* tool that make our work is easy,
-Git branch show the branches,
-**branchName**.
+I live in the city of Damascus, in Syria.
 
-- easy
-- powerfull
-- simple
+### Reading
 
-1. html
-2. css
-3. js
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Mindstorms* by Seymour Papert
+- *Welcome to the Monkey House* by Kurt Vonnegut
+- *Persepolis* by Marjane Satrapi
 
-```
-This is
-a block
-of code
-```
+### Food
 
+Last night I dreamt about eating in these restaurants:
+
+1. Linger in Denver.
+2. Azura in Jerusalem.
+3. Gemma in New York City.
+
+### Contact
+
+The best way to get in touch with me on my email murad.ite1995@gmail.com
