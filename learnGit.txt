@@ -1,0 +1,7 @@
+									Learn Git
+									---------
+1- git is a version control system.
+2- git is very simple and easy to learn.
+3- git add -A to add your new work to repository.
+4- git status to see the state of your repository.
+5- git branch to see the branches that you work on it.
